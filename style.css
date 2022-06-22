@@ -326,9 +326,11 @@ footer{
 
     /*Hero text*/
     .hero-content {
+	display: flex;
         position: relative;
         font-size: 1rem;
-	padding-right: 1rem;
+	justify-content: center; 
+	
     }
 
     /*About item*/
